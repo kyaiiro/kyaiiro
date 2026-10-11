@@ -7,7 +7,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on my own manga reader! [Check it out here](https://github.com/kyaiiro/Manga-Reader)
+- 🔭 I’m currently working on my own [manga reader](https://github.com/kyaiiro/Manga-Reader) and a [website](https://qpex.co.za) for my (and [RocketStar](https://github.com/DJenuVDM)'s) business!
 
 - 🌱 I’m currently learning **Rust**
 
