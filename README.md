@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **kyaiiro@gmail.com, or @kyaiiro on Discord (perferably discord, I don't check email)**
 
-- ⚡ Fun fact **I have such a messed up sleep schedule yet I need to get up at a decent time every morning due to school. I should fix this...**
+- ⚡ Fun fact **I have such a messed up sleep schedule yet I need to get up at a decent time every morning due to do uni. I should fix this...**
 <div align="center">
   <a href="https://yuri-posts.vercel.app" target="_blank" align="center">
     <img src="https://files.catbox.moe/n89lmv.png" alt="yuri is great" height="195" align="middle">
